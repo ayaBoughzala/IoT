@@ -3,7 +3,7 @@
 Get MQTT client library for C :
   
     git clone https://github.com/eclipse/paho.mqtt.c
-    cd paho.mqtt.c.git
+    cd paho.mqtt.c
     make
     sudo make install
   
